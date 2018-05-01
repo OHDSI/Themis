@@ -4,7 +4,7 @@
 
 ## Topic Processing
 
-![THEMIS Process Diagram](src/img/THEMIS WG Process Diagram.png)
+![THEMIS Process Diagram](src/img/THEMIS_WG_Process_Diagram.png)
 
 Green figures represent where anyone can participate, while blue figures represent tasks THEMIS group members will work on.
 
