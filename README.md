@@ -5,14 +5,22 @@ OHDSI Community: Themis makes decisions for the good of the whole community. We 
 
 
 **What falls under Themis & what does not**. Some questions regarding the CDM would fall under the CDM WG domain, Vocab Team’s domain, and/or other areas of the OHDSI community 
+
 •	**CDM WG:** Model changes 
+
 •	**Vocab Team:** A missing Vocabulary, concept_id, or vocabulary representation 
+
 •	**Themis:** Lack of a convention 
-o	Multiple places to store or represent a data element 
-o	Required data element not present at the source (example: year of birth) 
-o	Multiple data points for a field containing a single data element (example: multiple provider specialties) 
-o	General questions about how, where, when, why to store a data element 
-o	Make recommendations to CDM & Vocab WGs 
+
+   o	Multiple places to store or represent a data element 
+
+  o	Required data element not present at the source (example: year of birth) 
+
+  o	Multiple data points for a field containing a single data element (example: multiple provider specialties) 
+
+  o	General questions about how, where, when, why to store a data element 
+
+  o	Make recommendations to CDM & Vocab WGs 
 
 ## Topic Processing
 
