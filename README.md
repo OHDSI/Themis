@@ -1,4 +1,5 @@
-# THEMIS - Note, this README is a work in progress July 20,2023
+# THEMIS  
+README updated August 16, 2023 with the new Themis process and diagram
 
 ## Introduction
 OHDSI Community: Themis makes decisions for the good of the whole community. We must compromise. We can always revisit and modify the convention. Don’t let perfect be the enemy of great. And interoperability between different OMOP CDMs is great! 
@@ -24,30 +25,25 @@ OHDSI Community: Themis makes decisions for the good of the whole community. We 
 
 ## Topic Processing
 
-![THEMIS Process Diagram](src/img/THEMIS_WG_Process_Diagram.jpg)
-
-![Image 8-16-23 at 3 23 PM](https://github.com/OHDSI/Themis/assets/22457958/ebbec68e-a55c-447d-aaa9-934b09ff1734)
+![Image 8-16-23 at 3 39 PM](https://github.com/OHDSI/Themis/assets/22457958/c5c2622d-ab93-4811-aac3-16d60c5044e5)
 
 
-Green figures represent where anyone can participate, while blue figures represent tasks THEMIS group members will work on.
+1. Anyone in the OHDSI community can propose an idea for change, with or without a solution. This person is the issue sponsor. To do that, go to the THEMIS GitHub and use the issue template to add the necessary details.
 
-1. Anyone in the OHDSI community can propose an idea for change, with or without a solution.  To do that, go to the THEMIS GitHub and issue template to add the necessary details.
+2. The issue will be posted to the OHDSI forum for input and debate for a period not less than 60 days. During this time, the issue sponsor should edit the issue based on community feedback to ensure the proposed solution is inclusive of differing data sources and use cases.
 
-2. The issues will be reviewed by THEMIS members and prioritized.
+3. Themis will add this issue to the agenda.
 
-3. The THEMIS group responsible for this will debate it and make a posting to the forum tagged THEMIS to solicit feedback.
+4. The sponsor will present the proposed convention discussion during a Themis meeting. The proposed solution along with the forum discussion will be reviewed by the Themis WG.
 
-4. Allow for general OHDSI discussion on the forum.
+There are 3 possible outcomes after the Themis WG review of the issue and proposed solution.
 
-5. After the THEMIS group is confident that they have gathered enough feedback they will close the initial issue and open a formalized recommendation issue labeled as "UNDER REVEIW".
+1. The recommendation is accepted, with or without modification, and the convention is ratified. Themis will document the convention and metadata using the Themis metadata template for ratified conventions.
 
-6. There will be periodic all-hands THEMIS working group and at this point all "UNDER REVIEW" tasks will be reviewed to see which are ready for final approval.
+2. If the recommendation is rejected, the issue will be labeled as such with notes of why it was rejected and the issue will be closed.
 
-7. Issues that are deemed ready will go into a 60 day review process by the OHDSI community.  It gives the community one last shot to provide feedback.
+3. The convention requires more context, documentation or other details. It will be sent back to requestor for modification. 
 
-8A. If the recommendation is accepted, the actions are followed, in most cases this will be a task provided to the CDM/Vocabulary WG, update to ACHILLES, or update to OMOP Vocabulary.
-
-8B. If the recommendation is rejected it will be labeled as such and notes of why it was rejected will be made on the issue.
 
 ## Getting Involved 
 * Questions/comments/feedback: <a href="http://forums.ohdsi.org/tags/themis">OHDSI Forum</a>
