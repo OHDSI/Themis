@@ -26,6 +26,9 @@ OHDSI Community: Themis makes decisions for the good of the whole community. We 
 
 ![THEMIS Process Diagram](src/img/THEMIS_WG_Process_Diagram.jpg)
 
+![Image 8-16-23 at 3 23 PM](https://github.com/OHDSI/Themis/assets/22457958/ebbec68e-a55c-447d-aaa9-934b09ff1734)
+
+
 Green figures represent where anyone can participate, while blue figures represent tasks THEMIS group members will work on.
 
 1. Anyone in the OHDSI community can propose an idea for change, with or without a solution.  To do that, go to the THEMIS GitHub and issue template to add the necessary details.
