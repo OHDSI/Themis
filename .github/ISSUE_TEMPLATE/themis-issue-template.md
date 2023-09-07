@@ -15,4 +15,6 @@ assignees: ''
 
 **Related forum post:** If there is an OHDSI forum post related to this topic, please post all relevant links here.
 
+**Suggested solution:** If you have a suggested solution or convention for these data, add it here. 
+
 **Reported By:** Your name
