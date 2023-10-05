@@ -34,7 +34,7 @@ OHDSI Community: Themis makes decisions for the good of the whole community. We 
 
 3. Themis will add this issue to the agenda.
 
-4. The sponsor will present the proposed convention discussion during a Themis meeting. The proposed solution along with the forum discussion will be reviewed by the Themis WG.
+4. The sponsor will present the proposed convention discussion during a Themis meeting. The proposed solution along with the forum discussion will be reviewed by the Themis WG.  **Objective of meeting:** To ensure the majority of the Themis community agrees with the proposed decision and the documentation and wording of documentation is clear and concise and provides unambiguous guidance on how to handle these data.
 
 There are 3 possible outcomes after the Themis WG review of the issue and proposed solution.
 
