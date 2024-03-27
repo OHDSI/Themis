@@ -106,8 +106,8 @@ description: "Repository intended to document all THEMIS conventions for how to 
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-# url: https://ohdsi.github.io
-# baseurl: /Themis
+url: https://ohdsi.github.io
+baseurl: /Themis
 
 
 github: [metadata]
