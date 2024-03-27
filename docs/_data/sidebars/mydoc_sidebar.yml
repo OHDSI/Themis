@@ -1,0 +1,22 @@
+entries:
+- title: sidebar
+  product: THEMIS Repository
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Drug Exposure
+    url: /drug_exposure.html
+    output: web, pdf
