@@ -4,7 +4,7 @@ keywords: drug, drug_exposure, drug_end_date, drug_stop_date
 last_updated: March 27, 2024
 tags: [drug_end_date]
 sidebar: mydoc_sidebar
-permalink: drug_end_date_not_in_data.html
+permalink: /drug_end_date_not_in_data.html
 ---
 
 **Issue # and location**                           
