@@ -74,7 +74,7 @@ defaults:
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: home_sidebar
+      sidebar: mydoc_sidebar
       topnav: topnav
   -
     scope:
@@ -91,16 +91,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: home_sidebar
+      sidebar: mydoc_sidebar
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
+- mydoc_sidebar
 
 description: "Repository intended to document all THEMIS conventions for how to map different types of observational health data to the OMOP CDM."
 # the description is used in the feed.xml file

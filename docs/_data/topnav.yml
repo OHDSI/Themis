@@ -5,8 +5,8 @@ topnav:
   items:
     - title: THEMIS GitHub
       external_url: https://github.com/OHDSI/Themis
-	- title: CDM Website
-	  exterbak_url: https://ohdsi.github.io/CommonDataModel
+    - title: CDM Website
+      external_url: https://ohdsi.github.io/CommonDataModel
 
 #Topnav dropdowns
 topnav_dropdowns:
