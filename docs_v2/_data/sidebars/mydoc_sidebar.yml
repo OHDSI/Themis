@@ -1,0 +1,34 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: THEMIS Conventions
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: General Conventions
+    output: web, pdf
+    folderitems:
+
+  - title: CDM Tables
+    output: web, pdf
+    folderitems:
+
+    - title: Drug Exposure
+      url: /drug_exposure.html
+      output: web, pdf
+      type: homepage
+
+# Copyright 2021 Google LLC
