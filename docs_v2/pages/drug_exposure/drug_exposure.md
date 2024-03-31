@@ -1,6 +1,6 @@
 ---
 title: DRUG_EXPOSURE
-keywords: drug, drug_exposure
+keywords: drug, drug_exposure, drug exposure
 last_updated: March 27, 2024
 tags: [drug_exposure]
 summary: "Conventions related to mapping data into the DRUG_EXPOSURE table."
@@ -14,9 +14,9 @@ permalink: /drug_exposure.html
 
 ## Field-level Conventions
 
-| **Field** | **Convention** | **Notes** |
-|:--------|:-------:|--------:|
-| DRUG_EXPOSURE_START_DATE   |    |    |
+| **Field** | **Convention** |
+|:--------|:-------|
+| DRUG_EXPOSURE_START_DATE   |    |
 |----
-| DRUG_EXPOSURE_END_DATE   | [How to determine drug_exposure_end_date when not given explicitly in the data](drug_end_date_not_in_data.html)   |    |
+| DRUG_EXPOSURE_END_DATE   | [How to determine drug_exposure_end_date when not given explicitly in the data](drug_end_date_not_in_data.html)   |
 |=====

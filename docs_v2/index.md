@@ -44,5 +44,5 @@ There are 3 possible outcomes after the Themis WG review of the issue and propos
 
 ## Getting Involved
 
-- Questions/comments/feedback: <a href="http://forums.ohdsi.org/tags/themis">OHDSI Forum</a>
-- We use the <a href="https://github.com/OHDSI/Themis/issues">GitHub issue tracker</a> for all bugs/issues/enhancements
+- Questions/comments/feedback: [OHDSI Forum](http://forums.ohdsi.org/tags/themis)
+- We use the [GitHub issue tracker](https://github.com/OHDSI/Themis/issues)" for all bugs/issues/enhancements

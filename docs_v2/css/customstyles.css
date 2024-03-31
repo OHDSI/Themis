@@ -102,6 +102,10 @@ margin-top: -40px
     padding-left:20px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    color: #20425A;
+}
+
 .post-summary {
     margin-bottom:12px;
 }
@@ -290,12 +294,40 @@ li.dropdownActive a {
     margin-top:10px;
 }
 
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100%; /* Adjust as needed */
+}
+
+.navbar-icon {
+    height: 100%; /* Adjust as needed */
+    width: auto; /* Auto adjust */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
 .post-content .rssfeedLink {
     color: #248EC2;
 }
 
 footer {
     font-size: smaller;
+}
+
+.footer-logo {
+    width: 100px;  /* adjust as needed */
+    height: auto;  /* maintain aspect ratio */
+}
+
+.footer-content {
+    display: flex;
+    align-items: center; /* This will vertically center align the items */
+    justify-content: flex-end; /* This will align the items to the right */
+    gap: 20px; /* This will add some space between the text and the image */
 }
 
 /* FAQ page */

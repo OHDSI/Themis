@@ -5,9 +5,9 @@ topnav:
   items:
     - title: THEMIS GitHub
       external_url: https://github.com/OHDSI/Themis
-    - title: CDM Documentation
+    - title: CDM Docs
       external_url: https://ohdsi.github.io/CommonDataModel
-    - title: DQD Documentation
+    - title: DQD Docs
       external_url: https://ohdsi.github.io/DataQualityDashboard
 
 #Topnav dropdowns

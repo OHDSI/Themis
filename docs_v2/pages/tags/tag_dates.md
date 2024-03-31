@@ -1,8 +1,8 @@
 ---
-title: "Navigation pages"
-tagName: navigation
+title: "Dates"
+tagName: dates
 search: exclude
-permalink: tag_navigation.html
+permalink: tag_dates.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

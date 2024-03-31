@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "Themis"
+tagName: themis
 search: exclude
-permalink: tag_news.html
+permalink: tag_themis.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

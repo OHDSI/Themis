@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "DRUG_EXPOSURE"
+tagName: drug_exposure
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_drug_exposure.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
