@@ -18,10 +18,10 @@ The drug_exposure_end_date is a required field. How do you determine drug_exposu
 Table
 
 ## CDM table
-Drug Exposure                                                                                                             
+`DRUG_EXPOSURE`                                                                                                            
 
 ## CDM field
-drug_exposure_end_date
+`drug_exposure_end_date`
 
 ## Links to issue discussion
 - [OHDSI Forums discussion](https://forums.ohdsi.org/t/drug-exposure-quantity-recalculation/9607)
