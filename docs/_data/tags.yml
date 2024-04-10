@@ -5,5 +5,8 @@ allowed-tags:
   - themis
   - drug_exposure
   - dates
-
+  - person
+  - gender
+  - gender_identity
+  - sex
 # Copyright 2021 Google LLC

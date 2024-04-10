@@ -20,6 +20,11 @@ entries:
 
   - title: General Conventions
     output: web, pdf
+    folderitems:
+
+    - title: Gender Identity
+      url: /gender_identity.html
+      output: web, pdf
 
   - title: CDM Tables
     output: web, pdf
@@ -29,7 +34,7 @@ entries:
       url: /care_site.html
       output: web, pdf
 
-    - title: CDM Source
+    - title: Cdm Source
       url: /cdm_source.html
       output: web, pdf
 
