@@ -2,7 +2,7 @@
 title: How to populate year_of_birth when it is missing from the source
 keywords: birthdate, birth year, year_of_birth
 last_updated: April 10, 2024
-tags: [birthdate, year_of_birth]
+tags: [birthdate, year_of_birth, person]
 sidebar: mydoc_sidebar
 permalink: /missing_year_of_birth.html
 ---
