@@ -19,4 +19,6 @@ permalink: /person.html
 |  GENDER_CONCEPT_ID  | [How to populate gender_concept_id](populate_gender_concept_id.html)   |
 |----
 |  LOCATION_ID  | [How to populate location_id in the PERSON table](populate_person_location_id.html)   |
+|----
+|   YEAR_OF_BIRTH | [How to populate year_of_birth when it is missing from the source](missing_year_of_birth.html)    |
 |=====
