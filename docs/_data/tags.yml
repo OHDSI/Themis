@@ -9,4 +9,5 @@ allowed-tags:
   - gender
   - gender_identity
   - sex
+  - gender_concept_id
 # Copyright 2021 Google LLC
