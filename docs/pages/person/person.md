@@ -18,5 +18,5 @@ permalink: /person.html
 |:--------|:-------|
 |  GENDER_CONCEPT_ID  | [How to populate gender_concept_id](populate_gender_concept_id.html)   |
 |----
-|    |    |
+|  LOCATION_ID  | [How to populate location_id in the PERSON table](populate_person_location_id.html)   |
 |=====
