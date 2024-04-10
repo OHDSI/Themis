@@ -5,5 +5,8 @@ allowed-tags:
   - themis
   - drug_exposure
   - dates
+  - care_site
+  - place_of_service
+  - visit_concept_id
 
 # Copyright 2021 Google LLC
