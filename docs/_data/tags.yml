@@ -15,4 +15,5 @@ allowed-tags:
   - address
   - birthdate
   - year_of_birth
+  - provider
 # Copyright 2021 Google LLC
