@@ -18,7 +18,7 @@ Discussions in the forums indicate that setting year of birth to NULL precludes 
 
 Setting all unknown year of birth to specific year  creates problems in performing network studies as the tools and alogortithms used in network studies do not include control structures (if/then or switch statements ) to identify unknown year of birth when set to an incorrect year of birth with the assumption that that year means "unknown year of birth". Modifying the code in tools to accomodate the idiosyncrasies of databases creates problems and requires additional work. This same issue occurs when year of birth is set to 0 or NULL.
 
-The lack of year of birth raises an issue about year of birth know to be incorrect. Examples include year of birth after today''s year year of birth after the most recent year of visit or other fields with year.
+The lack of year of birth raises an issue about year of birth know to be incorrect. Examples include year of birth after today's year year of birth after the most recent year of visit or other fields with year.
 
 ## Convention type
 Table
