@@ -13,4 +13,6 @@ allowed-tags:
   - location
   - location_id
   - address
+  - birthdate
+  - year_of_birth
 # Copyright 2021 Google LLC
