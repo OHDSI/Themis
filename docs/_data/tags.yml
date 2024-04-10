@@ -10,4 +10,8 @@ allowed-tags:
   - gender_identity
   - sex
   - gender_concept_id
+  - location
+  - location_id
+  - address
 # Copyright 2021 Google LLC
+
