@@ -1,8 +1,8 @@
 ---
 title: DEATH
-keywords: death date, death
+keywords: death
 last_updated: April 10, 2024
-tags: [death, death_date]
+tags: [death]
 summary: "Conventions related to mapping data into the DEATH table."
 sidebar: mydoc_sidebar
 permalink: /death.html
