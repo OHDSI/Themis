@@ -16,4 +16,6 @@ allowed-tags:
   - birthdate
   - year_of_birth
   - provider
+  - death
+  - death_date
 # Copyright 2021 Google LLC
