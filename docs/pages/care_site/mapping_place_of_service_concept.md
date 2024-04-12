@@ -2,7 +2,7 @@
 title: How to populate the place_of_service_concept_id in the CARE_SITE table 
 keywords: care_site, place_of_service, place of service, place_of_service_concept_id, place of service concept id 
 last_updated: April 10, 2024 
-tags: [care_site, place_of_service, visit_concept_id] 
+tags: [care_site, place_of_service] 
 sidebar: mydoc_sidebar 
 permalink: /mapping_place_of_service_concept.html 
 --- 
