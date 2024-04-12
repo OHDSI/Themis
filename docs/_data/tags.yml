@@ -20,4 +20,9 @@ allowed-tags:
   - provider
   - death
   - death_date
+  - labs
+  - measurement
+  - lab_values
+  - value_as_number
+  - negative
 # Copyright 2021 Google LLC

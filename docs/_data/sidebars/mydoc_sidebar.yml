@@ -98,9 +98,9 @@ entries:
     #   url: /location.html
     #   output: web, pdf
 
-    # - title: Measurement
-    #   url: /measurement.html
-    #   output: web, pdf
+    - title: Measurement
+      url: /measurement.html
+      output: web, pdf
 
     # - title: Metadata
     #   url: /metadata.html
