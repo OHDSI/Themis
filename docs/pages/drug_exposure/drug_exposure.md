@@ -10,13 +10,14 @@ permalink: /drug_exposure.html
 
 ## Table-level Conventions
 
-- Convention1
 
 ## Field-level Conventions
 
 | **Field** | **Convention** |
 |:--------|:-------|
-| DRUG_EXPOSURE_START_DATE   |    |
-|----
 | DRUG_EXPOSURE_END_DATE   | [How to determine drug_exposure_end_date when not given explicitly in the data](drug_end_date_not_in_data.html)   |
+|----
+| DAYS_SUPPLY   | [How to populate days_supply when days supply is missing in the source data](missing_days_supply.html)    |
+|----
+| DAYS_SUPPLY   | [How to populate days_supply when days supply is negative in the source data](negative_days_supply.html)    |
 |=====

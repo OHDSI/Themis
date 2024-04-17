@@ -25,4 +25,5 @@ allowed-tags:
   - lab_values
   - value_as_number
   - negative
+  - days_supply
 # Copyright 2021 Google LLC
