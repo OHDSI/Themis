@@ -8,9 +8,6 @@ sidebar: mydoc_sidebar
 permalink: /death.html
 ---
 
-## Table-level Conventions
-
-- Convention1
 
 ## Field-level Conventions
 
@@ -18,5 +15,5 @@ permalink: /death.html
 |:--------|:-------|
 | DEATH_DATE   |  [How to populate death_date when it is missing from the source](missing_death_date.html)  |
 |----
-|  |    |
+| DEATH_DATE |  [How to populate the death date when you only have the year or year and month](death_month_day.html)  |
 |=====
