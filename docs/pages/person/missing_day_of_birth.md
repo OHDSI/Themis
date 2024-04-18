@@ -23,7 +23,9 @@ Table
 `day_of_birth`
 
 ## Links to issue discussion
+
 [Themis issue #96](https://github.com/OHDSI/Themis/issues/96)
+
 [CDM Documentation](https://ohdsi.github.io/CommonDataModel/cdm54.html#person)   
 
 ## Provenance of data
