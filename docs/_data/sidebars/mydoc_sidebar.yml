@@ -94,9 +94,9 @@ entries:
     #   url: /fact_relationship.html
     #   output: web, pdf
 
-    # - title: Location
-    #   url: /location.html
-    #   output: web, pdf
+    - title: Location
+      url: /location.html
+      output: web, pdf
 
     - title: Measurement
       url: /measurement.html
