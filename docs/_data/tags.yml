@@ -26,6 +26,7 @@ allowed-tags:
   - value_as_number
   - negative
   - days_supply
+  - quantity
   - zip
   - postcode
 # Copyright 2021 Google LLC
