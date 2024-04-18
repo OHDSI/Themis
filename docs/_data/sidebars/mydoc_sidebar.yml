@@ -30,6 +30,10 @@ entries:
       url: /multiple_provider_addresses.html
       output: web, pdf
 
+    - title: Records with values
+      url: /records_with_values.html
+      output: web, pdf
+
   - title: CDM Tables
     output: web, pdf
     folderitems:
