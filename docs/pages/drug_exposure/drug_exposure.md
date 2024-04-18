@@ -22,4 +22,6 @@ permalink: /drug_exposure.html
 | DAYS_SUPPLY   | [How to populate days_supply when days supply is negative in the source data](negative_days_supply.html)    |
 |----
 | QUANTITY      | [Should quantity be recalculated if the patient discontinues the drug?](quantity_calculation.html) |
+|----
+| VERBATIM_END_DATE | [What date is meant to be put in verbatim_end_date?](populate_verbatim_end_date.html) |
 |=====
