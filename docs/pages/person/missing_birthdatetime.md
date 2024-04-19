@@ -1,6 +1,6 @@
 ---
-title: What to do when birth day, month or time are missing from the source
-keywords: birthdate, birth datetime
+title: What to do when a complete birth date & time are missing from the source
+keywords: birthdate, birth datetime, birth date
 last_updated: April 10, 2024
 tags: [birthdate, person]
 sidebar: mydoc_sidebar
@@ -35,6 +35,8 @@ Use the following logic to infer the `birth_datetime` value:
 - If only year of birth is given, and there are no records during their year of birth, use the 15th of June of that year.
 - If year of birth and month of birth are given, but no day of birth, then use the first day of the month in that year.
 - If time of birth is not given use midnight (00:00:0000).
+
+*If you have inferred any component of birth date in your ETL, this must be very clearly specified in your ETL documentation.*
 
 ## Date of ratification/published
 2021-09-25 (CDM v5.4 release)

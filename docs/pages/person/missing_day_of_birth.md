@@ -1,17 +1,17 @@
 ---
-title: How to populate day_of_birth when it is missing from the source
-keywords: birthdate, birth
+title: What to do when birth day is missing from the source
+keywords: birthdate, birth datetime
 last_updated: April 10, 2024
-tags: [birthdate, person]
+tags: [birthdate, person, day_of_birth]
 sidebar: mydoc_sidebar
-permalink: /missing_day_of_birth.html
+permalink: /missing_birthdatetime.html
 ---
 
 ## Issue # and location
 [Themis issue #96](https://github.com/OHDSI/Themis/issues/96)
 
 ## Issue summary
-Day of Birth is not required in the CDM, but it is a component of birth_datetime. The CDM conventions have guidance listed for how to infer birth_datetime field, but not for the day_of_birth field itself. 
+Day of birth is not required in the CDM, but it is a component of birth_datetime. The CDM conventions have guidance listed for how to infer day_of_birthtime field, but not for the day_of_birth field itself. 
 
 ## Convention type
 Table
@@ -23,19 +23,19 @@ Table
 `day_of_birth`
 
 ## Links to issue discussion
-
 [Themis issue #96](https://github.com/OHDSI/Themis/issues/96)
-
 [CDM Documentation](https://ohdsi.github.io/CommonDataModel/cdm54.html#person)   
 
 ## Provenance of data
 General
 
 ## The ratified convention
-Day of birth is **not required in the CDM**, but it is a component of birth_datetime. For data sources that provide the precise date of birth, the day should be extracted and stored in this field. For data sources which lack this data point, but have a use case to infer the information (i.e. this is helpful for mother-child linkage algorithms), use the following heuristic:
+Day of birth is not required in the CDM, but it is a component of birth_datetime. For data sources that provide the precise date of birth, the day should be extracted and stored in this field. For data sources which lack this data point, but have a use case to infer the information (i.e. This is helpful for mother-child linkage algorithms), use the following heuristic:
 
 - If day_of_birth is null and month_of_birth is not null, then populate day_of_birth with '01'.
 - If day_of_birth AND month_of_birth are both null and the person has records during their year of birth, then use the date of the earliest record, otherwise use the 15th of June of that year. 
+
+*If you have inferred any component of birth date in your ETL, this must be very clearly specified in your ETL documentation.*
 
 ## Date of ratification/published
 NA
@@ -47,3 +47,7 @@ No
 
 ## Related conventions/further information
 Themis issue #95 - If month_of_birth is null or if day_of_birth AND month_of_birth are both null and the person has records during their year of birth then use the date of the earliest record, otherwise use the 15th of June of that year.
+
+
+**#Tags**
+person, day_of_birth, month_of_birth, birthdate 
