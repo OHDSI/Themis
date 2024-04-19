@@ -150,9 +150,9 @@ entries:
     #   url: /visit_detail.html
     #   output: web, pdf
 
-    # - title: Visit Occurrence
-    #   url: /visit_occurrence.html
-    #   output: web, pdf
+    - title: Visit Occurrence
+      url: /visit_occurrence.html
+      output: web, pdf
 
   - title: Tag Browser
     output: web

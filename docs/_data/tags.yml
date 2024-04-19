@@ -29,4 +29,7 @@ allowed-tags:
   - quantity
   - zip
   - postcode
+  - datetime
+  - visit_occurrence
+  - drug_administration
 # Copyright 2021 Google LLC

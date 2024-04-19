@@ -9,6 +9,7 @@ permalink: /drug_exposure.html
 ---
 
 ## Table-level Conventions
+- [How to populate drug_exposure from drug administration data when there are multiple actions (like drug given, on hold, rate changed, stopped etc)](multiple_drug_admin_actions.html)
 
 
 ## Field-level Conventions
