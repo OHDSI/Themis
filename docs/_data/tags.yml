@@ -22,4 +22,5 @@ allowed-tags:
   - quantity
   - datetime
   - patient_reported
+  - observation_period
 # Copyright 2021 Google LLC

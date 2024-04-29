@@ -38,6 +38,10 @@ entries:
       url: /type_concepts.html
       output: web, pdf
 
+    - title: Events outside of the Observation Period
+      url: /events_outside_obs_period.html
+      output: web, pdf
+
   - title: CDM Tables
     output: web, pdf
     folderitems:
