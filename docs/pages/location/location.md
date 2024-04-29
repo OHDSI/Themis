@@ -8,15 +8,10 @@ sidebar: mydoc_sidebar
 permalink: /location.html
 ---
 
-## Table-level Conventions
-
-- Convention1
 
 ## Field-level Conventions
 
 | **Field** | **Convention** |
 |:--------|:-------|
 |  ZIP  | [What value to store in the zip field?](zip_code.html)   |
-|----
-|    |    |
 |=====

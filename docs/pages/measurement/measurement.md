@@ -8,15 +8,10 @@ sidebar: mydoc_sidebar
 permalink: /measurement.html
 ---
 
-## Table-level Conventions
-
-- Convention1
 
 ## Field-level Conventions
 
 | **Field** | **Convention** |
 |:--------|:-------|
 | VALUE_AS_NUMBER   | [Can value_as_number be a negative value?](negative_value_as_number.html)   |
-|----
-|    |    |
 |=====

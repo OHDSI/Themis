@@ -2,7 +2,7 @@
 title: How to populate days_supply when days supply is negative in the source
 keywords: drug, drug_exposure, days_supply
 last_updated: April 16, 2024
-tags: [drug_exposure, days_supply]
+tags: [drug_exposure, days_supply, negative]
 sidebar: mydoc_sidebar
 permalink: /negative_days_supply.html
 ---

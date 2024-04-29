@@ -8,15 +8,9 @@ sidebar: mydoc_sidebar
 permalink: /care_site.html
 ---
 
-## Table-level Conventions
-
-- Convention1
-
 ## Field-level Conventions
 
 | **Field** | **Convention** |
 |:--------|:-------|
 |  PLACE_OF_SERVICE_CONCEPT_ID  |  [How to populate the place_of_service_concept_id in the CARE_SITE table](mapping_place_of_service_concept.html)  |
-|----
-|    |    |
 |=====

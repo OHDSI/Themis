@@ -3,35 +3,23 @@
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
   - themis
-  - drug_exposure
   - dates
-  - care_site
   - place_of_service
   - person
   - gender
   - gender_identity
   - sex
-  - gender_concept_id
   - location
-  - location_id
   - address
   - birthdate
   - year_of_birth
   - provider
-  - death
-  - death_date
   - labs
   - measurement
   - lab_values
   - value_as_number
   - negative
-  - days_supply
   - quantity
-  - zip
-  - postcode
   - datetime
-  - visit_occurrence
-  - drug_administration
-  - pro
   - patient_reported
 # Copyright 2021 Google LLC

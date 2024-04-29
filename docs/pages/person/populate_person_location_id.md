@@ -2,7 +2,7 @@
 title: How to populate location_id in the PERSON table
 keywords: location, address
 last_updated: April 10, 2024
-tags: [location, location_id, address]
+tags: [location, address]
 sidebar: mydoc_sidebar
 permalink: /populate_person_location_id.html
 ---
