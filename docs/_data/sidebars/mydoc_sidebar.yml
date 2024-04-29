@@ -146,9 +146,9 @@ entries:
     #   url: /procedure_occurrence.html
     #   output: web, pdf
 
-    # - title: Provider
-    #   url: /provider.html
-    #   output: web, pdf
+    - title: Provider
+      url: /provider.html
+      output: web, pdf
 
     # - title: Specimen
     #   url: /specimen.html
