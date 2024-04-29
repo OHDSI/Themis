@@ -8,6 +8,10 @@ sidebar: mydoc_sidebar
 permalink: /death.html
 ---
 
+## Table-level Conventions
+
+- [How to map a person with multiple death records on different days](multiple_death_dates.html)
+
 
 ## Field-level Conventions
 
