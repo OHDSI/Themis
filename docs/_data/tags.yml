@@ -32,4 +32,6 @@ allowed-tags:
   - datetime
   - visit_occurrence
   - drug_administration
+  - pro
+  - patient_reported
 # Copyright 2021 Google LLC

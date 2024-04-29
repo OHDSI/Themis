@@ -34,6 +34,10 @@ entries:
       url: /records_with_values.html
       output: web, pdf
 
+    - title: Patient reported data
+      url: /type_concepts.html
+      output: web, pdf
+
   - title: CDM Tables
     output: web, pdf
     folderitems:
