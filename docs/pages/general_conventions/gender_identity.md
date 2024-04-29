@@ -2,7 +2,7 @@
 title: How to map gender identity
 keywords: gender, gender identity, sex
 last_updated: April 10, 2024
-tags: [gender, gender_identity, sex]
+tags: [gender, gender_identity, sex, person]
 sidebar: mydoc_sidebar
 permalink: /gender_identity.html
 ---

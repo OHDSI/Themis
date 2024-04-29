@@ -1,6 +1,6 @@
 ---
 title: What value to store in the zip field?
-keywords: zip, zip code, address
+keywords: zip, zip code, address, post code
 last_updated: April 18, 2024
 tags: [address, zip, postcode]
 sidebar: mydoc_sidebar

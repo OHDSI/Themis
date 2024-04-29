@@ -2,7 +2,7 @@
 title: Patient reported data
 keywords: provenance
 last_updated: April 29, 2024
-tags: [pro, patient_reported]
+tags: [patient_reported]
 sidebar: mydoc_sidebar
 permalink: /type_concepts.html
 ---
