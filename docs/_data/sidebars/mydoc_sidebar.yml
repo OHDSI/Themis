@@ -165,6 +165,63 @@ entries:
   - title: Tag Browser
     output: web
     folderitems:
-      - title: Dates
-        url: /tag_dates.html
+      - title: Address
+        url: /tag_address.html
         output: web
+      - title: Birthdate
+        url: /tag_birthdate.html
+        output: web
+      - title: Datetime
+        url: /tag_datetime.html
+        output: web
+      - title: Gender
+        url: /tag_gender.html
+        output: web
+      - title: Gender Identity
+        url: /tag_gender_identity.html
+        output: web
+      - title: Labs
+        url: /tag_labs.html
+        output: web
+      - title: Lab Values
+        url: /tag_lab_values.html
+        output: web
+      - title: Location
+        url: /tag_location.html
+        output: web
+      - title: Measurement
+        url: /tag_measurement.html
+        output: web
+      - title: Negative
+        url: /tag_negative.html
+        output: web
+      - title: Patient Reported
+        url: /tag_patient_reported.html
+        output: web
+      - title: Person
+        url: /tag_person.html
+        output: web
+      - title: Place of Service
+        url: /tag_place_of_service.html
+        output: web
+      - title: Provider
+        url: /tag_provider.html
+        output: web
+      - title: Quantity
+        url: /tag_quantity.html
+        output: web
+      - title: Sex
+        url: /tag_sex.html
+        output: web
+      - title: Themis
+        url: /tag_themis.html
+        output: web
+      - title: Value as Number
+        url: /tag_value_as_number.html
+        output: web
+      - title: Year of Birth
+        url: /tag_year_of_birth.html
+        output: web
+
+
+  

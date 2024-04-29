@@ -7,8 +7,6 @@ permalink: index.html
 summary: This page provides an overview of the THEMIS project.
 ---
 
-{% include note.html content="Currently this page contains the content from the THEMIS GitHub README." %}
-
 ## Introduction
 OHDSI Community: Themis makes decisions for the good of the whole community. We must compromise. We can always revisit and modify the convention. Don’t let perfect be the enemy of great. And interoperability between different OMOP CDMs is great! 
 
@@ -45,4 +43,4 @@ There are 3 possible outcomes after the Themis WG review of the issue and propos
 ## Getting Involved
 
 - Questions/comments/feedback: [OHDSI Forum](http://forums.ohdsi.org/tags/themis)
-- We use the [GitHub issue tracker](https://github.com/OHDSI/Themis/issues)" for all bugs/issues/enhancements
+- We use the [GitHub issue tracker](https://github.com/OHDSI/Themis/issues) for all bugs/issues/enhancements

@@ -1,5 +1,5 @@
 ---
-title: "Year_of_birth"
+title: "Year of Birth"
 tagName: year_of_birth
 search: exclude
 permalink: tag_year_of_birth.html
