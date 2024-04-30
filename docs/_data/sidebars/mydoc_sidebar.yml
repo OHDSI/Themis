@@ -22,6 +22,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Person Exclusion
+      url: /excluded_persons.md
+      output: web, pdf
+
     - title: Gender Identity
       url: /gender_identity.html
       output: web, pdf
