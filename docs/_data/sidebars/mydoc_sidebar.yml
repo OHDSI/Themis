@@ -23,14 +23,14 @@ entries:
     folderitems:
 
     - title: Person Exclusion
-      url: /excluded_persons.md
+      url: /excluded_persons.html
       output: web, pdf
 
     - title: Gender Identity
       url: /gender_identity.html
       output: web, pdf
 
-    - title: Providers with Mulitple Addresses
+    - title: Providers with Multiple Addresses
       url: /multiple_provider_addresses.html
       output: web, pdf
 
@@ -70,9 +70,9 @@ entries:
     #   url: /condition_era.html
     #   output: web, pdf
 
-    # - title: Condition Occurrence
-    #   url: /condition_occurrence.html
-    #   output: web, pdf
+    - title: Condition Occurrence
+      url: /condition_occurrence.html
+      output: web, pdf
 
     # - title: Cost
     #   url: /cost.html
