@@ -45,6 +45,10 @@ entries:
     - title: Events outside of the Observation Period
       url: /events_outside_obs_period.html
       output: web, pdf
+    
+    - title: Observation Periods for EHR data
+      url: /obs_periods_for_ehr.html
+      output: web, pdf
 
   - title: CDM Tables
     output: web, pdf
