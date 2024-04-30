@@ -1,5 +1,5 @@
 # THEMIS  
-README updated August 16, 2023 with the new Themis process and diagram
+The Themis convention library contains all ratified conventions and is located <a href="http://forums.ohdsi.org/tags/themis">here.</a>
 
 ## Introduction
 OHDSI Community: Themis makes decisions for the good of the whole community. We must compromise. We can always revisit and modify the convention. Don’t let perfect be the enemy of great. And interoperability between different OMOP CDMs is great! 
