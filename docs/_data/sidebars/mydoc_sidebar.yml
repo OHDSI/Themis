@@ -138,9 +138,9 @@ entries:
     #   url: /observation.html
     #   output: web, pdf
 
-    # - title: Observation Period
-    #   url: /observation_period.html
-    #   output: web, pdf
+    - title: Observation Period
+      url: /observation_period_end_date.html
+      output: web, pdf
 
     # - title: Payer Plan Period
     #   url: /payer_plan_period.html
