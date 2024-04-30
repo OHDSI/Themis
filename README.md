@@ -13,15 +13,15 @@ OHDSI Community: Themis makes decisions for the good of the whole community. We 
 
 •	**Themis:** Lack of a convention 
 
-   o	Multiple places to store or represent a data element 
+  -	Multiple places to store or represent a data element 
 
-  o	Required data element not present at the source (example: year of birth) 
+  -	Required data element not present at the source (example: year of birth) 
 
-  o	Multiple data points for a field containing a single data element (example: multiple provider specialties) 
+  -	Multiple data points for a field containing a single data element (example: multiple provider specialties) 
 
-  o	General questions about how, where, when, why to store a data element 
+  -	General questions about how, where, when, why to store a data element 
 
-  o	Make recommendations to CDM & Vocab WGs 
+  -	Make recommendations to CDM & Vocab WGs 
 
 ## Topic Processing
 
