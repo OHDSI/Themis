@@ -50,7 +50,7 @@ entries:
       url: /obs_periods_for_ehr.html
       output: web, pdf
 
-    - title: Events with no exact information on a last day
+    - title: Observation Period  with no exact information on End Date
       url: /events_with_no_exact_last_day.html
       output: web, pdf
 
