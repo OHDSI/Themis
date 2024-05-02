@@ -1,10 +1,10 @@
 ---
-title: Resolving observation_period_end_date without exact information on a last day
+title: Resolving Observation Period End Date without Exact Information on a Last Day
 keywords: observation_period, event, survival
 last_updated: April 30, 2024
 tags: [observation_period, event, survival]
 sidebar: mydoc_sidebar
-permalink: /observation_period_end_date.html
+permalink: /events_with_no_exact_last_day.html
 ---
 
 ## Issue # and location
