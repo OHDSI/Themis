@@ -2,7 +2,7 @@
 # If an issue has had no activity (comments) in 90-days, it will add the tag 'stale' and and comment to notify of the status.
 # If an issue that has been marked stale is inactive for an additional 90-days, it will close the issue.
 
-# Note: You must set the GitHub Repository Secret GITHUB_TOKEN_STALE to a Personal Access Token (PAT) that allows the stale workflow to authenticate and perform API calls to GitHub.
+# Note: You must set the GitHub Repository Secret STALE_PAT to a Personal Access Token (PAT) that allows the stale workflow to authenticate and perform API calls to GitHub.
 
 # Ref: https://docs.github.com/en/actions/managing-issues-and-pull-requests/closing-inactive-issues
 
