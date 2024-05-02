@@ -10,6 +10,7 @@ name: Tag Stale and Close Inactive
 on:
   schedule:
     - cron: "0 5 * * *"
+  workflow_dispatch:
 
 jobs:
   close-issues:
