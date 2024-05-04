@@ -142,9 +142,9 @@ entries:
     #   url: /observation.html
     #   output: web, pdf
 
-    # - title: Observation Period
-    #  url: url: /observation_period.html
-    #  output: web, pdf
+    - title: Observation Period
+      url: /observation_period.html
+      output: web, pdf
 
     # - title: Payer Plan Period
     #   url: /payer_plan_period.html
@@ -233,6 +233,9 @@ entries:
         output: web
       - title: Year of Birth
         url: /tag_year_of_birth.html
+        output: web
+      - title: Observation Period
+        url: /tag_observation_period.html
         output: web
 
 
