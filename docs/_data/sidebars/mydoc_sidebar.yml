@@ -50,10 +50,6 @@ entries:
       url: /obs_periods_for_ehr.html
       output: web, pdf
 
-    - title: Observation Period  with no exact information on End Date
-      url: /events_with_no_exact_last_day.html
-      output: web, pdf
-
   - title: CDM Tables
     output: web, pdf
     folderitems:
