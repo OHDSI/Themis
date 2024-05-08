@@ -23,4 +23,6 @@ allowed-tags:
   - datetime
   - patient_reported
   - observation_period
+  - event 
+  - survival
 # Copyright 2021 Google LLC
