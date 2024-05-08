@@ -203,6 +203,9 @@ entries:
       - title: Negative
         url: /tag_negative.html
         output: web
+      - title: Observation Period
+        url: /tag_observation_period.html
+        output: web
       - title: Patient Reported
         url: /tag_patient_reported.html
         output: web
@@ -229,9 +232,6 @@ entries:
         output: web
       - title: Year of Birth
         url: /tag_year_of_birth.html
-        output: web
-      - title: Observation Period
-        url: /tag_observation_period.html
         output: web
 
 
