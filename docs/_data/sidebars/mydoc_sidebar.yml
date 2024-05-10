@@ -179,8 +179,8 @@ entries:
       - title: Birthdate
         url: /tag_birthdate.html
         output: web
-      - title: Datetime
-        url: /tag_datetime.html
+      - title: Dates
+        url: /tag_dates.html
         output: web
       - title: Gender
         url: /tag_gender.html
