@@ -1,0 +1,54 @@
+```
+**PLEASE COPY THIS TEMPLATE INTO ASSIGNED ISSUE**
+**Note: if no information available, put in 'NA'.**
+
+## Issue # and location
+For this ratified convention, the issue number given when the issue was created by GitHub. Was this a CDM issue, Themis issue, found in CDM documentation or found on the forum?
+
+Format as follows:
+- [Themis issue #57](https://github.com/OHDSI/Themis/issues/57)
+- [CDM issue #156](https://github.com/OHDSI/CommonDataModel/issues/156)
+
+## Issue summary
+Be specific
+
+## Convention type
+Global or Table
+
+## CDM table
+Name of CDM table affected by the convention. If global convention, then NA
+
+## CDM field
+Name of CDM field affected by the global. If global issue, then NA
+
+## Links to issue discussion
+Links to location of discussion on forums, CDM GitHub, Themis GitHub, etc.
+
+Format as follows:
+- [OHDSI Forums discussion](https://forums.ohdsi.org/t/drug-exposure-quantity-recalculation/9607)
+- [CDM Documentation](https://ohdsi.github.io/CommonDataModel/cdm54.html#drug_exposure)   
+
+## Provenance of data
+What is the type of data to which the convention applies? General/all, EHR (hospital or GP), claims, country of origin, etc. Please be as specific as possible.
+
+## The ratified convention
+Conceptual, english description of the ratified convention including table and field. Example use cases, data flow diagrams, or other visiuals are encouraged, if applicable.
+
+## Date of ratification/published
+Some previously ratified conventions might not contain this data. If unable to find a date, then use the current date as the date of publication in the Themis repository.
+
+## Downstream implications
+Does the OHDSI community need to update OHDSI tools or methods based on the publication of this convention? If yes, which tools or methods?
+
+## Link to DQD check
+Is this a DQD check? Make your best guess based on the descriptions available on  https://ohdsi.github.io/DataQualityDashboard/articles/checkIndex.html. Do not spend more than 5 minutes on this activity.
+
+Format as follows:
+Yes - [isRequired](https://ohdsi.github.io/DataQualityDashboard/articles/checks/isRequired.html).
+
+## Related conventions/further information
+Other helpful information, if needed. i.e. related conventions, queries to evaluate source or CDM data, or any additional information
+
+**#Tags**
+Any words, phrases that allow users to more easily find this convention in the library.
+``` #
