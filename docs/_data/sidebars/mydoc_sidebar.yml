@@ -30,6 +30,10 @@ entries:
       url: /gender_identity.html
       output: web, pdf
 
+    - title: One-to-Many Mappings
+      url: /one_to_many_mapping.html
+      output: web, pdf
+
     - title: Providers with Multiple Addresses
       url: /multiple_provider_addresses.html
       output: web, pdf
