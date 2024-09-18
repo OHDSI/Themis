@@ -12,4 +12,3 @@ permalink: /condition_occurrence.html
 ## Table-level Conventions
 
 
-- [How to handle source codes that map to multiple standard concepts](one_to_may_mapping.html)

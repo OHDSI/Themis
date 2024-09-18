@@ -32,7 +32,7 @@ NA
 General, All
 
 ## The ratified convention
-Condition concepts are primarily mapped to SNOMED CT for standard concepts. Some concepts like Oncology diagnoses might be mapped to ICD-O. When mapping, source concepts should be mapped fully to standard concepts even if it requires more than one code. In such cases, two records should be created in the CDM, one for each standard concept. If the source system already maps to standard codes use them, rather than mapping first to ICD and then map to SNOMED.
+Condition concepts are primarily mapped to SNOMED CT for standard concepts. Some concepts like Oncology diagnoses might be mapped to ICD-O. When mapping, source concepts should be mapped fully to standard concepts even if it requires more than one code. In such cases, two records should be created in the CDM, one for each standard concept. If the source system already maps to standard codes use them, rather than mapping first to ICD and then map to SNOMED. Additional information can be found [here](https://ohdsi.github.io/CommonDataModel/dataModelConventions.html#Source_Values,_Source_Concept_Ids,_and_Standard_Concept_Ids).
 
 
 ## Date of ratification/published
