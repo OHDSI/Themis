@@ -11,14 +11,13 @@ permalink: /missing_year_of_birth.html
 [Themis #92](https://github.com/OHDSI/Themis/issues/92)
 
 ## Issue summary
-The lack of year_of_birth creates a dilemma on how to process those records. If an age group categorization is available, the approximate year of birth can be derived. I could not find guidance on how to estimate year of birth from age group categorization.
-The age of a patient is so important to observational research that we have the convention to exclude patients without known age. The recommendation is to eliminate those records from a study.
+The lack of year_of_birth creates a dilemma on how to process those records. The age of a patient is vital to observational research such that it is suggested that patients without known age should be excluded from the CDM standardized database. 
 
 Discussions in the forums indicate that setting year of birth to NULL precludes finding those records in SQL queries. Incorrect and inconsistent results occur when setting year of birth to 0.  When year_of_birth is 0, Postgres calculates an age of 2021 years in but In SQL Server it would be 122 years old as year 0 is 1900-01-01. 
 
-Setting all unknown year of birth to specific year  creates problems in performing network studies as the tools and alogortithms used in network studies do not include control structures (if/then or switch statements ) to identify unknown year of birth when set to an incorrect year of birth with the assumption that that year means "unknown year of birth". Modifying the code in tools to accomodate the idiosyncrasies of databases creates problems and requires additional work. This same issue occurs when year of birth is set to 0 or NULL.
+Setting all unknown year of birth to specific year creates problems in performing network studies as the tools and algorithms used in network studies do not include control structures (if/then or switch statements ) to identify unknown year of birth when set to an incorrect year of birth with the assumption that that year means "unknown year of birth". Modifying the code in tools to accomodate the idiosyncrasies of databases creates problems and requires additional work. This same issue occurs when year of birth is set to 0 or NULL.
 
-The lack of year of birth raises an issue about year of birth know to be incorrect. Examples include year of birth after today's year year of birth after the most recent year of visit or other fields with year.
+The lack of year of birth raises an issue about years of birth known to be incorrect. Examples include year of birth after today's year, or year of birth after the most recent year of visit or other fields with year.
 
 ## Convention type
 Table
