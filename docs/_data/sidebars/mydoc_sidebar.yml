@@ -138,9 +138,9 @@ entries:
     #   url: /note_nlp.html
     #   output: web, pdf
 
-    # - title: Observation
-    #   url: /observation.html
-    #   output: web, pdf
+    - title: Observation
+      url: /observation.html
+      output: web, pdf
 
     - title: Observation Period
       url: /observation_period.html
@@ -186,6 +186,9 @@ entries:
       - title: Dates
         url: /tag_dates.html
         output: web
+      - title: Ethnicity
+        url: /tag_ethnicity.html
+        output: web
       - title: Gender
         url: /tag_gender.html
         output: web
@@ -224,6 +227,9 @@ entries:
         output: web
       - title: Quantity
         url: /tag_quantity.html
+        output: web
+      - title: Race
+        url: /tag_race.html
         output: web
       - title: Sex
         url: /tag_sex.html

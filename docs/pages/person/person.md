@@ -8,9 +8,9 @@ sidebar: mydoc_sidebar
 permalink: /person.html
 ---
 
-<!-- ## Table-level Conventions
+## Table-level Conventions
 
-- Convention1 -->
+- [How to handle multiple races or ethnicities per person](multiple_races_per_person.html)
 
 ## Field-level Conventions
 
