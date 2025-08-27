@@ -38,7 +38,7 @@ All data
 *Example:* There is one race source value, ‘Black or African American’, for a person. Then PERSON.race_concept_id = 8516, ‘Black or African American’
 
 •If your data has > 1 race source value
-	1. Use 44814659, [‘Multiple Race’](https://athena.ohdsi.org/search-terms/terms/44814659), to populate PERSON.race_concept_id
+	1. Use 1546847, [‘More than one race’](https://athena.ohdsi.org/search-terms/terms/1546847), to populate PERSON.race_concept_id
 	2. In the Observation table, populate OBSERVATION.observation_concept_id = 4013886, ‘Race’. THEN populate OBSERVATION.value_as_concept_id with the concept_id for the person’s race. Create as many records for a person as the source data have.
 
 *Example:* There are two source race values for a person: ‘Asian’ and ‘White’. You will create two records in the Observation table:
@@ -47,7 +47,7 @@ All data
 
 **What do I do if my race source value isn’t present as a standard concept_id with domain_id = ‘Race’?**
 
-•If you have race source values which don’t map to a standard concept_id with domain_id = ‘Race’, please utilize the [community mapping contribution](https://github.com/OHDSI/Vocabulary-v5.0/wiki/Community-contribution) to incorporate your race terms into the OHDSI vocabularies. 
+•If you have race source values which don’t map to a standard concept_id with domain_id = ‘Race’, create an issue in the [Themis Github](https://github.com/OHDSI/Themis/issues). 
 
 **What date do I put into the OBSERVATION.observation_date for the records?**
 
@@ -76,4 +76,4 @@ No
 - [standardRecordConceptCompleteness](https://ohdsi.github.io/DataQualityDashboard/articles/CheckTypeDescriptions.html#standardConceptRecordCompleteness)
 
 ## Related conventions/further information
-NA
+If you have a research use case for race or ethnicity data which isn't covered by the conventions above, please create an issue in the [Themis Github](https://github.com/OHDSI/Themis/issues). 
